@@ -1,4 +1,4 @@
-- 👋 Hi, I’m manish7713
+- 👋 Hi, I’m manish kumar
 - 👀 I’m interested in ...Data Science and Machine learning
 - 🌱 I’m currently learning ...Deep learning
 - 💞️ I’m looking to collaborate on ...Deep learning
